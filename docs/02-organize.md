@@ -13,19 +13,19 @@ Thank you for investing your time into the wonderfull tech community! We are loo
 
 The Global AI Bootcamp is an annual event organized by local communites, where developers and AI enthusiasts from around the world come together to learn about artificial intelligence through workshops, sessions, and interactive discussions. This event is hosted in various locations globally, providing a platform for participants to delve into AI technologies, network with like-minded individuals, and gain hands-on experience with the latest AI tools and techniques. The bootcamp aims to foster a collaborative learning environment and promote the growth of AI knowledge and skills within the community.
 
-### How does the agenda need to look like?
+### What does the agenda need to look like?
 
 That is totally up to you! Except 1 thing, we request each event to play our pre-recorded [keynote](04-keynote.md). All the rest of the agenda is up to your choice and the needs of your community. We noticed some communities focused on workshops others on sharing sessions.
 
-### Do you offer any content that we can re-use
+### Do you offer any content that we can use?
 
-Yes we do, we are working hard on collecting different [slide decks](05-presentations.md) and workshops that you can use at your event. 
+Yes we do! We have provided a collection of [slide decks](05-presentations.md) and [workshops](06-workshops.md) that you can use at your event. See the later sections in this guide for details.
 
 *Do you have a slide deck or a workshop that you want to share with the community? (Reach out to hq@globalai.community)*
 
 ### Is there any artwork that we can use?
 
-Offcourse! If you are an official Global AI Chapter, then you can find all your artwork back on your [chapter dashboard](https://globalai.community/umbraco#/content). If you are local community organizer, then you can find all artwork back [here](03-artwork.md)
+Of course! If you are an official Global AI Chapter, then you can find all your artwork back on your [chapter dashboard](https://globalai.community/umbraco#/content). If you are local community organizer, then you can find all artwork back [here](03-artwork.md)
 
 ### Are we allowed to charge a fee to the attendees?
 
@@ -33,7 +33,7 @@ Yes, but only to cover your costs. The Global AI Community is a non-profit to he
 
 ### Does the event need to be in-person?
 
-No, it can be virtual, hybrid or in-person. But let's be honest! In person events are the best! Isn'it?
+No, it can be virtual, hybrid or in-person. But let's be honest! In person events are the best! Aren't they?
 
 
 ## Register 
